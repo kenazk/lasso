@@ -3,7 +3,7 @@ commonmark==0.9.1
 contourpy==1.0.7
 cycler==0.11.0
 fonttools==4.39.3
-h5py==3.8.0
+h5py==3.16.0
 kiwisolver==1.4.4
 lasso-python==2.0.0
 matplotlib==3.7.1
