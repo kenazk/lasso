@@ -6,7 +6,7 @@ fonttools==4.39.3
 h5py==3.8.0
 kiwisolver==1.4.4
 lasso-python==2.0.0
-matplotlib==3.7.1
+matplotlib==3.11.2
 numpy==1.24.2
 packaging==23.0
 pandas==1.5.3
